@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **quanghuytran172@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1cdTAq9HU4KXp5awNpA5CgJdyN-pIqJO6/view?usp=sharing
+- 📄 Know about my experiences "Link updating..."
 
 - ⚡ Fun fact **I'll learn what I can't do**
 
