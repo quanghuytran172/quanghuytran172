@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Web Developer**
 
-- 🌱 I’m currently learning **NodeJS and Reactjs**
+- 🌱 I’m currently working with **NodeJS and Reactjs** with more than **2 years experience**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quanghuytran172?tab=repositories](https://github.com/quanghuytran172?tab=repositories)
 
