@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Huy</h1>
-<h3 align="center">Student at Thang Long University majoring in Computer Science</h3>
+<h3 align="center">Graduated Thang Long University majoring in Computer Science</h3>
 
 - 👀 I’m interested in **Web Developer**
 
